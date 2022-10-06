@@ -1,5 +1,5 @@
-### Hi there, I'm Luiza
-A mobile Flutter Developer!
+### Hi there, I'm Luiza!
+A mobile Flutter Developer :)
 
 
  <div>
