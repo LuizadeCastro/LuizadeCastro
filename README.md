@@ -47,7 +47,7 @@ class Developer {
         code = {
           'mobile': ['Flutter'],
           'frontend': ['Flutter', 'HTML', 'CSS', 'JavaScript'],
-          'backend': ['Golang', 'Java'],
+          'backend': ['Java', 'Python', 'C#', '.NET'],
           'database': ['MySQL', 'Mongo DB'],
           'tools': [
             'GIT',
