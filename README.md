@@ -39,7 +39,7 @@ class Developer {
             'GitKraken',
             'BitBucket'
           ],
-          'misc': ['SCRUM', 'SOLID', 'Clean Archtecture']
+          'misc': ['SCRUM', 'SOLID', 'Clean Architecture']
         };
 }
 ```
